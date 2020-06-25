@@ -1,0 +1,28 @@
+body, h2, div, p {margin: 0; padding: 0; font-family: 'Noto Serif KR' }
+body{margin: auto;}
+header{height:1000px; width:80%; margin: auto; margin-top: 100px; text-align: center; }
+.bg1{background: url('../img/img1-1.png'); background-size: cover; height:874px; margin: auto; text-align: center; }
+h1{font-family: 'Noto Serif KR'; font-weight: 400; font-size: 5em;  text-align: center; writing-mode: vertical-lr; margin: auto;}
+section{margin-bottom: 900px}
+h2{font-synthesis: 2em}
+.a{text-align: center; margin: auto; font-family: 'Noto Serif KR'; font-weight: 500px; font-size: 1.5em; color: navy }
+.b{margin-bottom: 80px}
+.c{margin: auto; text-align: center; width: 1000px; display: flex;}
+.c-1{margin: auto; text-align: center; width: 1200px; display: flex;}
+.d{width: 50%; text-align: left; margin: auto; line-height: 1.7; margin-bottom: 900px;}
+.e{width: 50%; text-align: left; margin: auto; line-height: 1.7; margin-bottom: 900px}
+.f{width: 30%; text-align: center; margin: auto; line-height: 1.7; margin-bottom: 900px}
+.g{text-align: left; margin: auto; font-family: 'Noto Serif KR'; width: 1000px; margin-bottom: 900px}
+.img{width: 700px}
+.img2{width: 500px}
+.img3{height: 600px; }
+.b0{margin-bottom: 0px}
+#abs1{position: absolute;  top: 4500px; left: 850px; width:600px; z-index:-1}
+#b0{margin-bottom: 20px}
+#b1{margin-bottom: 20px; margin-left:200px}
+#p{padding-left: 150px}
+#h{z-index:999}
+
+@keyframes leftright{ from{left: 700px} to{left: 400px}}
+a : hover{transition: 0.5s}
+#c{width: 300px;}
